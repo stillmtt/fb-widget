@@ -1,2 +1,2 @@
 Facebook widget
-[DEMO](http://localhost/code/facebook/)
+[DEMO](http://stillmtt.com/demo/facebook/)
